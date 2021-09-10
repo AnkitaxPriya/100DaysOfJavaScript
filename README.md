@@ -13,7 +13,7 @@ console.log("Namaste World! Welcome to my 100DaysOfJavaScript journey");
 
 |**Day 📍**|**Date 📅**|**Target 🎯**| **References 🔗**|
 |------|-----------------|--------------------|---------------------|
-|Day 1|10 Sept '21| Complete Basics of JavaScript |  |
+|Day 1|10 Sept '21| Complete Basics of JavaScript | [JS: First Steps](https://www.educative.io/courses/introduction-to-javascript-first-steps) |
 |||  |  |
 |||  |  |
 |||  |  |
